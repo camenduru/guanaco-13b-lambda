@@ -294,7 +294,7 @@ def init():
 
     demo.queue(max_size=128, concurrency_count=2)
 
-    demo.launch(share=True)
+    demo.launch(share=True, inline=False)
 
 if __name__ == "__main__":
     init()
