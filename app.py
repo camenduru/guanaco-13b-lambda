@@ -10,6 +10,6 @@ os.system(f"cp /home/demo/venv/lib/python3.8/site-packages/bitsandbytes/libbitsa
 os.system(f"cp /home/demo/.local/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cuda117.so /home/demo/.local/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cpu.so")
 os.system(f"cp /home/ubuntu/.local/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cuda117.so /home/ubuntu/.local/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cpu.so")
 os.system(f"python run.py")
-# os.chdir(f"/home/demo/source")
+os.chdir(f"/home/demo/source")
 # os.system(f"pip install -r requirements.txt")
 os.system(f"python run.py")
