@@ -16,9 +16,6 @@ https://www.youtube.com/watch?v=SyuQKRt5310
 https://github.com/artidoro/qlora
 
 ### Models
-A10  <br />
-https://huggingface.co/timdettmers/guanaco-7b (Thanks to timdettmers ❤) <br />
-https://huggingface.co/decapoda-research/llama-7b-hf  (Thanks to decapoda-research ❤) <br />
-H100  <br />
-https://huggingface.co/timdettmers/guanaco-33b  (Thanks to timdettmers ❤) <br />
-https://huggingface.co/decapoda-research/llama-30b-hf  (Thanks to decapoda-research ❤) <br />
+A6000 (48 GB) <br />
+https://huggingface.co/timdettmers/guanaco-13b (Thanks to timdettmers ❤) <br />
+https://huggingface.co/decapoda-research/llama-13b-hf  (Thanks to decapoda-research ❤) <br />
