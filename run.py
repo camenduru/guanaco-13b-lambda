@@ -294,7 +294,7 @@ def init():
 
     demo.queue(max_size=128, concurrency_count=2)
 
-    demo.launch(port=8266, inline=False)
+    demo.launch(server_port=8266, inline=False)
 
 if __name__ == "__main__":
     init()
